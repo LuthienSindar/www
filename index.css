@@ -1,1 +1,60 @@
-/*Holi*/ 
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
+body {
+    background-color: #264653;
+    margin: 0;
+    padding: 0;
+}
+h1, th {
+    color: #e9c46a;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Nanum Gothic', sans-serif
+}
+
+h2 {
+    background-color: #2a9d8f;
+    color: #e9c46a;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Nanum Gothic', sans-serif
+}
+
+nav {
+    word-spacing: 250px;
+    text-align: center;
+    background-color: #e9c46a;
+}
+
+h3, td, span, li {
+    color: #e9c46a;
+    text-align: justify;
+    text-transform: full-width;
+    font-family: 'Nanum Gothic', sans-serif"
+}
+
+dt, dd {
+    color: #e9c46a;
+    text-align: justify;
+    text-transform: full-width;
+    font-family: 'Nanum Gothic', sans-serif"
+}
+
+table, th, td {
+    background-color: #2a9d8f;
+    border: 1px solid #001219;
+    width: 1200px;
+    margin: auto;
+}
+
+div {
+    text-align: center;
+    border-radius: 20px;
+  }
+
+.imagen-contenedor iframe {
+    display: inline;
+}
+.Titulo-de-la-imagen {
+    color: #e9c46a;
+}
