@@ -5,6 +5,15 @@ body {
     margin: 0;
     padding: 0;
 }
+
+nav {
+    word-spacing: 250px;
+    text-align: center;
+    background-color: #e9c46a;
+    position: sticky;
+    top: 0px;
+}
+
 h1, th {
     color: #e9c46a;
     text-align: center;
@@ -18,12 +27,6 @@ h2 {
     text-align: center;
     text-transform: uppercase;
     font-family: 'Nanum Gothic', sans-serif
-}
-
-nav {
-    word-spacing: 250px;
-    text-align: center;
-    background-color: #e9c46a;
 }
 
 h3, td, span, li {
